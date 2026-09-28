@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://a.yibnigj.cn/sitemap.xml
